@@ -121,6 +121,8 @@ h2{
     font-size: 20px;
     margin-top: 12px;
     margin-bottom: 12px;
+    border-bottom: Solid;
+    border-color: #666666;
     text-decoration: bold;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
