@@ -3,9 +3,11 @@ body {
 }
 
 .top-banner{
-    height: 100px;
+    height: 63px;
     background-color: #ffffff;
     padding-left: 50px;
+    border-bottom: solid;
+    border-color: #cccccc;
 }
 
 .name{
@@ -21,7 +23,7 @@ body {
 .links-me{
     float: right;
     padding-right: 50px;
-    padding-top: 45px;
+    padding-top: 25px;
     color: #777777;   
 }
 
@@ -122,7 +124,7 @@ h2{
     margin-top: 12px;
     margin-bottom: 12px;
     border-bottom: Solid;
-    border-color: #666666;
+    border-color: #cccccc;
     text-decoration: bold;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
